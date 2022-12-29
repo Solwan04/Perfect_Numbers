@@ -1,0 +1,15 @@
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\bin\Debug\net6.0\Perfect Numbers 2.exe
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\bin\Debug\net6.0\Perfect Numbers 2.deps.json
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\bin\Debug\net6.0\Perfect Numbers 2.runtimeconfig.json
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\bin\Debug\net6.0\Perfect Numbers 2.dll
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\bin\Debug\net6.0\Perfect Numbers 2.pdb
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.csproj.AssemblyReference.cache
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.AssemblyInfoInputs.cache
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.AssemblyInfo.cs
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.csproj.CoreCompileInputs.cache
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.dll
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\refint\Perfect Numbers 2.dll
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.pdb
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\Perfect Numbers 2.genruntimeconfig.cache
+C:\Users\Somaya Hussien\source\repos\Perfect Numbers 2\Perfect Numbers 2\obj\Debug\net6.0\ref\Perfect Numbers 2.dll
